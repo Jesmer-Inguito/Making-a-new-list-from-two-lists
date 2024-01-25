@@ -13,5 +13,6 @@ list_1 = [10, 20, 25, 30, 35]
 list_2 = [40, 45, 60, 75, 90]
 
 # Create a variable that can be used to call the function
+new_list = create_new_list(list_1, list_2)
 
 # Print the 1st, 2nd and new lists
