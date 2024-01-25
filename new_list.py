@@ -9,6 +9,8 @@ def create_new_list(list_1, list_2):
     return result_list
 
 # Create two lists
+list_1 = [10, 20, 25, 30, 35]
+list_2 = [40, 45, 60, 75, 90]
 
 # Create a variable that can be used to call the function
 
