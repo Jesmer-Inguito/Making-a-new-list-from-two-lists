@@ -16,3 +16,6 @@ list_2 = [40, 45, 60, 75, 90]
 new_list = create_new_list(list_1, list_2)
 
 # Print the 1st, 2nd and new lists
+print("List 1:", list_1)
+print("List 2:", list_2)
+print("Result list:", new_list)
